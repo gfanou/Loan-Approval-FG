@@ -1,0 +1,53 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+h1{
+    font-family: Georgia;
+    font-weight: bold;
+    margin-top: 3px;
+}
+
+
+h4{
+    margin-left: 300px;
+
+}
+fieldset {
+    background-color:aliceblue;
+    padding: 10px;
+    text-align: left;
+    line-height: 8px;
+    margin-top: 8px;
+    border-radius: 30px;
+}
+
+label {
+    font-weight: bold;
+    margin-left: 15px;
+}
+input{
+    margin-right: 15px;
+
+}
+
+.btn, .btn:hover {
+    background-color:dodgerblue;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+
+
+label.error {
+    /* Add a style here for your error messages */
+
+    color: deeppink;
+    font-size:smaller;
+    font-weight: bold;
+
+}
+#message{
+    font-family: "Arial Black";
+    margin-left: 300px;
+}
